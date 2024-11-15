@@ -1,6 +1,6 @@
 const {mongoose,Schema,model} = require( 'mongoose')
 const zod = require('zod');
-mongoose.connect('mongodb+srv://admin:dnXjLRdeL0K3KL4R@cluster0.zxrddre.mongodb.net/paytm').then(() => console.log('Connected!'));
+mongoose.connect('Your-url/paytm').then(() => console.log('Connected!'));
 const userSchema = new mongoose.Schema({
     username: {
         type: String,
