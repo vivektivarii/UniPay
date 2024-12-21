@@ -1,7 +1,14 @@
 ﻿# UniPay - College Fee Payment System
 
 UniPay is a modern, web-based college fee payment system that allows students to manage and pay their academic fees online. The platform provides a secure, efficient, and user-friendly interface for handling various types of college payments.
+
 ![Screenshot 2024-11-26 152150](https://github.com/user-attachments/assets/07b59c76-d794-4a01-a179-5d97bde68b04)
+
+![Screenshot 2024-11-26 152651](https://github.com/user-attachments/assets/b36b38b1-6862-4685-8ba6-297994513135)
+
+![Screenshot 2024-11-26 152851](https://github.com/user-attachments/assets/7b4f3969-be6e-42f7-a7b8-346dfc4777b2)
+
+![Screenshot 2024-11-23 131043](https://github.com/user-attachments/assets/f51857a6-2326-405a-8c4f-aba8cb8bd18f)
 
 ## Features
 
