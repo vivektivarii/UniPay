@@ -63,7 +63,7 @@ UniPay is a modern, web-based college fee payment system that allows students to
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/unipay.git
+git clone https://github.com/vivektivarii/unipay.git
 cd unipay
 ```
 
@@ -91,8 +91,6 @@ JWT_SECRET=your_jwt_secret_key
 
 Frontend `.env`:
 ```env
-VITE_API_URL=http://localhost:3000/api/v1
-```
 
 For MongoDB Atlas users, your MONGODB_URI will look like this:
 ```env
@@ -106,7 +104,7 @@ MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.xxxxx.mongodb.net/unipa
 Backend:
 ```bash
 cd backend
-npm start
+node index.js
 ```
 
 Frontend:
@@ -142,5 +140,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/unipay
+Your Name - hellovivek30@gmail.com
+Project Link: https://github.com/vivektivarii/unipay
